@@ -18,7 +18,7 @@ Foundation is trying to provide a solution to those technical and maintainance
 limitations. The core ideas are:
 
 * Provide all the interesting modern core primitives (packed UTF8 strings, arrays, others)
-  and have them works well together.
+  and have them work well together.
 * Improve types where possible; we don't want to be stuck on broken concepts because of compatibility
 * Improve classes where possible, for the same reasons.
 * Provide core types (e.g. uuid) by default with all the right instances
